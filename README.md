@@ -14,7 +14,7 @@ The Karplus Strong algorithm has been executed using the python language. The fo
 
 ## Hardware implementation method
 In this method we have used the Verilog language to implement the Karplus Strong algorithm. The verilog code was written based on the following block diagram.
-
+![block diagram](./images/block_diagram.xml)
 Delay line and filter were first implemented as independent modules.Later, these modules were put together in the main module.  
 The hardware implementation folder contains three folders Filter, Delay line and Main design. Each folder contains two files,the design file and testbench file. The design file contains program for the design of the component and testbench contains code for the verification of that design.   
 
