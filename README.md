@@ -9,7 +9,7 @@ We call the two different ways as hardware implementation and software implement
 
 ## Software implementation method 
 
-The Karplus Strong algorithm has been executed using the python language. The focus in this method was to write efficient python code for the algorithm. The Software implementation folder contains three folders Instructions, Code_by_mentees and a file best_results. The Code_by_mentees folder contains the programs written by the mentees using the instructions file in the instruction folder. The file best_result.wav is the best sound we got using the different codes.
+The Karplus Strong algorithm has been executed using the python language. The focus in this method was to write efficient python code for the algorithm. The Software implementation folder contains two folders Instructions and Code_by_mentees and a file best_results.wav. The Code_by_mentees folder contains the programs written by the mentees using the instructions file in the instruction folder. The file best_result.wav is the best sound we got using the different codes.
 
 
 ## Hardware implementation method
